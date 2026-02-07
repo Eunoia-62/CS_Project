@@ -63,12 +63,6 @@ CS Project/
 
 2. **Clone or Download**
    - Download all project files to a single folder
-
-3. **Run the Program**
-```bash
-   python main.py
-```
-
 ---
 
 ## Usage
